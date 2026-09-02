@@ -37,4 +37,12 @@ The most complex component of the project involved training an Encoder-Decoder n
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
+   git clone https://github.com/AlexMules/DeepLearning-Dimensionality-Reduction-Autoencoders.git
+   ```
+
+2. Ensure you have the **`kaggle.json`** file configured to download the EMNIST dataset via API.
+3. Install the required dependencies:
+   ``` bash
+   pip install numpy pandas matplotlib seaborn scikit-learn tensorflow umap-learn kaggle
+   ```
+4. Run the script/notebook directly in Google Colab or a local Jupyter environment.
