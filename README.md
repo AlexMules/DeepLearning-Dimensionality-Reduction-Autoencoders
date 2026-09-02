@@ -29,7 +29,7 @@ The most complex component of the project involved training an Encoder-Decoder n
 * **Autoencoder + UMAP Synergy:** Applying the UMAP algorithm exclusively on the 32D latent space extracted from the Autoencoder resulted in dense and isolated geometric class filaments, demonstrating vastly superior topological separation compared to applying PCA or UMAP on the raw pixels.
 <br><br>
 ## 🛠️ Technologies Used
-* **Language:** Python 3
+* **Language:** Python
 * **Machine Learning & Deep Learning:** TensorFlow / Keras, Scikit-Learn, UMAP-learn
 * **Data Manipulation & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
 * **Data Source:** Kaggle API (`kaggle datasets download -d crawford/emnist`)
