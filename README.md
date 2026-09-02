@@ -1,4 +1,4 @@
-# EMNIST Letters: Dimensionality Reduction, Classification & Autoencoders
+# 🔤 EMNIST Letters: Dimensionality Reduction, Classification & Autoencoders
 
 This repository contains the implementation and documentation for an advanced Deep Learning and Machine Learning project. The project explores an image-based dataset, applying dimensionality reduction techniques (PCA, t-SNE, UMAP), hyperparameter optimization for classification networks, and generative Autoencoder architectures.
 <br><br>
